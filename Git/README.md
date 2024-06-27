@@ -5,7 +5,7 @@
 
 ![Введение](https://github.com/EvgenyKolpak/Modsen_Practice/blob/main/Git/Images/1.1.png)
 
-- Едем дальше
+- Едем дальше 
 
 ![Едем дальше](https://github.com/EvgenyKolpak/Modsen_Practice/blob/main/Git/Images/1.2.png)
 
